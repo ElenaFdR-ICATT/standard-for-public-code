@@ -1,7 +1,7 @@
 # Releasing a new version of the Standard for Public Code
 
 <!-- SPDX-License-Identifier: CC0-1.0 -->
-<!-- SPDX-FileCopyrightText: 2025 Standard for Public Code Authors, https://www.standardforpubliccode.org/AUTHORS; 2021-2024 The Foundation for Public Code <info@publiccode.net>, https://www.standardforpubliccode.org/AUTHORS -->
+<!-- SPDX-FileCopyrightText: 2025-2026 Standard for Public Code Authors, https://www.standardforpubliccode.org/AUTHORS; 2021-2024 The Foundation for Public Code <info@publiccode.net>, https://www.standardforpubliccode.org/AUTHORS -->
 
 This step-by-step guide walks through the process of preparing a release for Standard for Public Code, from reviewing the current state of the `develop` branch to sending the final files for print.
 It should cover everything needed to ensure the release is properly updated, reviewed, and tagged.
