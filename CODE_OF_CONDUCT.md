@@ -15,5 +15,6 @@ Strive to be as constructive as possible.
 To raise a concern, please email any one of our volunteers:
 
 * Anton Wiklund <antonwiklund91@gmail.com>
+* Johan Groenen <johan@tiltshift.nl>
 
 If you wish to volunteer, open a PR adding yourself to the list above.
