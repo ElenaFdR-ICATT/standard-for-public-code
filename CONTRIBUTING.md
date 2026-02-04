@@ -72,6 +72,8 @@ When submitting the pull request, please accompany it with a description of the 
 It is preferred for each pull request to address a single issue where possible.
 In some cases a single set of changes may address multiple issues, in which case be sure to list all issue numbers fixed.
 
+Please open pull requests in **Draft** mode while you’re still working on them. When the work is complete, mark the your pull request as **Ready** for a maintainer to merge your contribution into the target branch.
+
 ### 3. Improve
 
 All contributions have to be reviewed by someone.
