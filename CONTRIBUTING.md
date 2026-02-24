@@ -72,20 +72,22 @@ When submitting the pull request, please accompany it with a description of the 
 It is preferred for each pull request to address a single issue where possible.
 In some cases a single set of changes may address multiple issues, in which case be sure to list all issue numbers fixed.
 
-Please open pull requests in **Draft** mode while you’re still working on them. Draft pull requests allow maintainers and community members to collaborate, review, and comment on your changes early in the process.
+Please open pull requests in **Draft** mode while you’re still working on them.
+Draft pull requests allow the steering team and other community members to collaborate, look at, and comment on your changes early in the process.
 
-Once the work is complete and all feedback has been addressed, mark the pull request as **Ready** for final review, approval, and merging into the target branch by a maintainer.
+Once you are happy with your changes, mark the pull request as **Ready** for the final review process to start.
 
 ### 3. Improve
 
 All contributions have to be reviewed by someone.
 
-It could be that your contribution can be merged immediately by a maintainer.
+It could be that your contribution can be merged immediately by a steering team member.
 However, usually, a new pull request needs some improvements before it can be merged.
 Other contributors (or helper robots) might have feedback.
-If this is the case the reviewing maintainer will help you improve your documentation and code.
+If this is the case the reviewer will help you improve your documentation and code.
 
-If your documentation and code have passed human review, it is merged.
+If your documentation and code have passed human review, and a steering team member deems it aligned with the [roadmap](docs/roadmap.md), it will be merged into the target branch by a steering team member (which may be the same person reviewing the code).
+Otherwise, the steering team member will bring it up for the steering team to decide.
 
 ### 4. Celebrate
 
