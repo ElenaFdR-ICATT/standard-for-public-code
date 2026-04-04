@@ -12,7 +12,7 @@ Anyone developing public-purpose software or policy can use this standard to wor
 
 This foreword introduces the term public code and explains why this is important.
 
-## Definition of public code
+## Public code
 
 Public code is both computer source code (such as software and algorithms) and public policy executed in a public context, by humans or machines.
 It encompasses the software built to operate with and as public infrastructure, along with the arrangements for its production.
