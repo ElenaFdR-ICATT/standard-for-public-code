@@ -5,7 +5,7 @@
 
 If you're using the Standard for Public Code, please add your project's name to the alphabetically sorted table below via pull request.
 
-This really helps the Standard for Public Cod gain momentum and credibility.
+This really helps the Standard for Public Code gain momentum and credibility.
 It's a small contribution back to the project with a big impact.
 
 We'll also use this to update our [publiccode.yml](/publiccode.yml).
